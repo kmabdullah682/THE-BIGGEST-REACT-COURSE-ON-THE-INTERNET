@@ -1,8 +1,8 @@
 const FindByQueries = () => {
   return (
     <div>
-      <h1>FindBy Queries Test</h1>
-      <p>Paragraph with text "Hello World"</p>
+      <h2>FindBy Queries Test</h2>
+      <p class="something changed yooo">Paragraph with text "Hello World"</p>
       <button aria-label="click-me">Click me</button>
       <input placeholder="Enter text here" />
       <img src="image.jpg" alt="test-image" />
